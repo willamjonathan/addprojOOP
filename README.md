@@ -9,7 +9,7 @@ Sorry I zipped the file, I just can't find the right way to upload a JFrame with
 Link: https://www.youtube.com/watch?v=llXV8PWGOII&t=205s<br>
 
 <h1>Project Report</h1><br>
-Link: <br>
+Link: https://github.com/willamjonathan/addprojOOP/blob/main/additionalproj.pdf <br>
 <h1>Other information</h1><br>
 To go back to my main project : <br>
 https://github.com/willamjonathan/FINALPROJECTOOP
